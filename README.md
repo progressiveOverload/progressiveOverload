@@ -11,5 +11,4 @@ Hey, I'm Ali Cihan. I love tackling problems, coming up with solutions and execu
 # Check out my apps on Google Play!
 [![Google Play](https://github.com/progressiveOverload/progressiveOverload/assets/108024533/e708c798-d383-4950-b751-a5a267126071)](https://play.google.com/store/apps/dev?id=8998849463443738586)
 
-
-<div class="tenor-gif-embed" data-postid="17664862" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/david-goggins-lifting-they-dont-know-me-workout-gym-gif-17664862">David Goggins Lifting GIF</a>from <a href="https://tenor.com/search/david+goggins-gifs">David Goggins GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Goggins baba](https://github.com/progressiveOverload/progressiveOverload/assets/108024533/ef747938-68e9-4edd-9b37-3976510ccf76)
