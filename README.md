@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Check out my (shitty) apps!
-[![Google Play](https://github.com/progressiveOverload/progressiveOverload/assets/108024533/e708c798-d383-4950-b751-a5a267126071)](https://play.google.com/store/apps/dev?id=8998849463443738586)]
+[![Google Play](https://github.com/progressiveOverload/progressiveOverload/assets/108024533/e708c798-d383-4950-b751-a5a267126071)](https://play.google.com/store/apps/dev?id=8998849463443738586)
 
 
 
