@@ -4,8 +4,7 @@ Hey, I'm Ali Cihan. I love tackling problems, coming up with solutions and execu
 
 - 🔭 I’m currently working on Flutter and Python
 - 👯 I’m looking to collaborate on Startup Ideas and execution
-- 🤔 I’m looking for a co-founder that can do cardio for (at least) an hour
-- ⚡ Fun fact: Love learning from history and ancient knowledge
+
 
 
 # Check out my apps on Google Play!
